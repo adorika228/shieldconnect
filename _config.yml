@@ -24,13 +24,13 @@ your_name                                 : Kay
 your_link                                 : https://shieldconnect.org                     
 your_city                                 : Sacramento                                
 email_address                             : kay@synaxisdata.space
-linkedin_username                         :                                           
-linkedin_company                          :                                           
-facebook_username                         :                                           
+linkedin_username                         : shieldconnect                                           
+linkedin_company                          : shieldconnect                                           
+facebook_username                         : shieldconnect                                           
 instagram_username                        : shieldconnect
 twitter_username                          : shieldconnect
 github_username                           : shieldconnect
-youtube_username                          :
+youtube_username                          : shieldconnect
 mastodon_link                             : https://mastodon.social/@ebaehr
 
 
@@ -70,8 +70,8 @@ features                                  :
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Multi-language Support
+    description                           : Trusted VPN for privacy-focused users worldwide
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
