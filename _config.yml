@@ -58,8 +58,8 @@ features                                  :
     description                           : We never track or store your activity.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Lightning-Fast Speeds
+    description                           : Stream, game, and browse without lag.
     fontawesome_icon_name                 : star
 
   - title                                 : Wi-Fi Protection
